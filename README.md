@@ -3,9 +3,9 @@ Pymer is very simple python timer that is used to find how much time a chunk of 
 
 # How to use it
 * Import the Library
-' import time '
+`import time`
 * Start the timer
-' pymer.startTimer() '
+`pymer.startTimer()`
 * Stpop timer
-' pymer.endTimer() '
+`pymer.endTimer()`
 The time to exacut the code will be printed out to the console.
